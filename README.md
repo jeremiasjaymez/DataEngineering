@@ -1,4 +1,4 @@
-# DataEngineering
+# Data Engineering
 Space for Data Engineering useful data, interesting people, helpful code snippets
 
 # Wiki
