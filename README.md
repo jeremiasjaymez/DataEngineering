@@ -1,4 +1,5 @@
 # DataEngineering
-## Index
+Space for Data Engineering useful data, interesting people, helpful code snippets
+
 # Wiki
-Useful Links: https://github.com/jeremiasjaymez/DataEngineering/wiki/
+https://github.com/jeremiasjaymez/DataEngineering/wiki/
